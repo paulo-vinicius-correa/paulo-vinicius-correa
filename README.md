@@ -1,8 +1,11 @@
 ### Olá, sou Paulo Vinicus 👋
 - 🔭 Atualmente esou trabalanho com Front-End
+
 - 🌱Estou estudando vue.js e React
+
 - 💬 Desenvolvedor de Software com experiência em projetos pessoais de responsividade, iniciando no desenvolvimento, me reconheço como um entusiasta em novas tecnologias do mercado com aprendizado adquirido dia após dia.
 Possuo foco em desenvolvimento com HTML5, CSS3, JavaScript, Vue.JS dentre outras tecnologias que uso para criar aplicações, web/mobile de alto nível e valor.
+
 - 📫 Contate-me: paulo.correa1501@hotmail.com
 
 <div align="center">
