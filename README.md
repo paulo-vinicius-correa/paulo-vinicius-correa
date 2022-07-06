@@ -1,5 +1,5 @@
 ### Olá, sou Paulo Vinicus 👋
-- 🔭 Atualmente estou trabalhando com Front-End
+- 🔭 Atualmente estou  estudando Front-End
 
 - 🌱Estou estudando vue.js e React
 
