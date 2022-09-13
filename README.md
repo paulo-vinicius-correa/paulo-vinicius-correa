@@ -1,4 +1,4 @@
-### Olá, sou Paulo Vinicus 👋
+### Olá, sou Paulo Vinicius 👋
 - 🔭 Atualmente estou  estudando Front-End
 
 - 🌱Estou estudando JS
