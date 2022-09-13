@@ -1,7 +1,7 @@
 ### Olá, sou Paulo Vinicus 👋
 - 🔭 Atualmente estou  estudando Front-End
 
-- 🌱Estou estudando vue.js e React
+- 🌱Estou estudando JS
 
 - 💬 Desenvolvedor de Software com experiência em projetos pessoais de responsividade, iniciando no desenvolvimento, me reconheço como um entusiasta em novas tecnologias do mercado com aprendizado adquirido dia após dia.
 Possuo foco em desenvolvimento com HTML5, CSS3, JavaScript, Vue.JS dentre outras tecnologias que uso para criar aplicações, web/mobile de alto nível e valor.
