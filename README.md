@@ -3,8 +3,7 @@
 
 - 🌱Estou estudando JS
 
-- 💬 Desenvolvedor de Software com experiência em projetos pessoais de responsividade, iniciando no desenvolvimento, me reconheço como um entusiasta em novas tecnologias do mercado com aprendizado adquirido dia após dia.
-Possuo foco em desenvolvimento com HTML5, CSS3, JavaScript, dentre outras tecnologias que uso para criar aplicações, web/mobile de alto nível e valor.
+- 💬 Olá! Bem-vindo(a) ao meu GitHub! Sou um desenvolvedor front-end apaixonado por criar experiências incríveis na web. Aqui você encontrará meus projetos em HTML, CSS e JavaScript, desde sites estáticos até aplicações dinâmicas. Gosto de colaborar em projetos interessantes, então se você precisa de um desenvolvedor front-end, vamos conversar!
 
 - 📫 Contate-me: paulo.correa1501@hotmail.com
 
