@@ -1,11 +1,8 @@
 ### Olá, sou Paulo Vinicius 👋
-- 🔭 Atualmente estou  estudando Front-End
 
-- 🌱Estou estudando JS
+💬 Olá! Boas-vindas ao meu GitHub! Sou um analista de dados entusiasta pela arte de extrair conhecimento a partir de informações. Neste espaço, compartilho projetos que ilustram minha jornada na análise de dados, desde a coleta até a visualização dos insights. Minhas ferramentas incluem Python, SQL e ferramentas de visualização de dados. Adoro participar de iniciativas colaborativas, portanto, se você estiver procurando por um analista de dados para sua equipe, estou pronto para uma conversa!
 
-- 💬 Olá! Bem-vindo(a) ao meu GitHub! Sou um desenvolvedor front-end apaixonado por criar experiências incríveis na web. Aqui você encontrará meus projetos em HTML, CSS e JavaScript, desde sites estáticos até aplicações dinâmicas. Gosto de colaborar em projetos interessantes, então se você precisa de um desenvolvedor front-end, vamos conversar!
-
-- 📫 Contate-me: paulo.correa1501@hotmail.com
+📫 Entre em contato comigo: paulo.correa@hotmasil.com
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
