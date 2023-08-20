@@ -1,6 +1,6 @@
 ### Olá, sou Paulo Vinicius 👋
 
-💬 Olá! Boas-vindas ao meu GitHub! Sou um analista de dados entusiasta pela arte de extrair conhecimento a partir de informações. Neste espaço, compartilho projetos que ilustram minha jornada na análise de dados, desde a coleta até a visualização dos insights. Minhas ferramentas incluem Python, SQL e ferramentas de visualização de dados. Adoro participar de iniciativas colaborativas, portanto, se você estiver procurando por um analista de dados para sua equipe, estou pronto para uma conversa!
+💬  Sou um analista de dados entusiasta pela arte de extrair conhecimento a partir de informações. Neste espaço, compartilho projetos que ilustram minha jornada na análise de dados, desde a coleta até a visualização dos insights. Minhas ferramentas incluem Python, SQL e ferramentas de visualização de dados. Adoro participar de iniciativas colaborativas, portanto, se você estiver procurando por um analista de dados para sua equipe, estou pronto para uma conversa!
 
 📫 Entre em contato comigo: paulo.correa@hotmasil.com
 
