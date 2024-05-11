@@ -2,7 +2,7 @@
 <div style="text-align: center; margin-bottom: 20px;">
   <h2>OPAA, BÃO?!</h2>
 </div>
-<p style="text-align: justify; margin-bottom: 20px;">E aí, me chamo Paulo Vinicius.<br> Sou um cara que curte demais lidar com dados, sabe?<br><br>Com três anos de experiência como Analista de Dados, me joguei de cabeça na area de dados, e hoje faço a construção de modelos e montagem de soluções de BI além de mais umas coisas ai!<br> <br> Tô sempre dando um jeito de transformar aqueles dados brutos em insights que ajudem nas decisões estratégicas dos negócios.</p>
+<p style="text-align: justify; margin-bottom: 20px;">E aí, me chamo Paulo Vinicius.<br> Sou um cara que curte demais lidar com dados, sabe?<br><br>Com três anos de experiência como Analista de Dados, me joguei de cabeça na area de dados, e hoje faço a construção de modelos e montagem de soluções além de mais umas coisas ai!<br> <br> Tô sempre dando um jeito de transformar aqueles dados brutos em insights que ajudem nas decisões estratégicas dos negócios.</p>
 
  <h2>Se liga nessas estatísticas ai abaixo ⬇️</h2>
 
